@@ -5,6 +5,7 @@ Pink
 Blue
 Green
 Unicorn
+Indigo
 Yellow
 Red
 These are the colors of the rainbowl
